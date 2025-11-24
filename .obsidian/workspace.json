@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerScience/C++Practice.md",
+                "file": "ComputerScience/Practice/C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++Practice"
+              "title": "C++"
             }
           }
         ]
@@ -169,12 +169,14 @@
   },
   "active": "7af11073b334052e",
   "lastOpenFiles": [
-    "ComputerScience/C++Practice.md",
-    "ComputerScience",
+    "ComputerScience/Practice/Linux.md",
+    "ComputerScience/Practice/C++.md",
+    "ComputerScience/Practice",
+    "README.md",
     "Untitled.base",
+    "ComputerScience",
     "Untitled 1.base",
     "Untitled.canvas",
-    "README.md",
     "01-Computer-Science/01-Programming-Languages/02-C++/01-C++入门.md",
     "01-Computer-Science/01-Programming-Languages/02-C++/README.md",
     "2025-11-11.md"

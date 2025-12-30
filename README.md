@@ -6,4 +6,7 @@
 - 创建学科分类文件夹：`cpp`、`data-structures`、`linux`
 - 统一文件夹命名规范，全部使用英文 kebab-case 格式
 - 更新规范文档，添加文件和文件夹命名规范章节
+- 调整分支结构以符合开发规范：
+  - 创建 `feature/v1.0` 发布分支
+  - 重命名 `dev` 分支为 `dev/init-project-ShihongGan`（符合命名规范）
 

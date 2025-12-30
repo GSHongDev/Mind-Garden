@@ -1,6 +1,7 @@
 # 更新日志
 
 ## 2025-12-31
+
 - 初始化项目结构
 - 创建文档规范文件夹 `docs`
 - 创建学科分类文件夹：`cpp`、`data-structures`、`linux`
@@ -11,4 +12,3 @@
   - 重命名 `dev` 分支为 `dev/init-project-ShihongGan`（符合命名规范）
 - 优化学习笔记/文档库管理流程，添加文档分类管理规范
 - 统一文件编码为 UTF-8，创建 `.gitattributes` 文件，配置 Git 编码设置
-

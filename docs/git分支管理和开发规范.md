@@ -65,6 +65,12 @@
 ## 文件和文件夹命名规范
 > 遵循大厂标准，确保跨平台兼容性和可维护性。
 
+### 文件编码规范
+- **统一使用 UTF-8 编码**：所有文档文件必须使用 UTF-8 编码，确保跨平台兼容性和避免乱码问题
+- **Git 配置**：已配置 `core.quotepath=false`、`i18n.commitencoding=utf-8`、`i18n.logoutputencoding=utf-8`
+- **.gitattributes**：项目根目录已配置 `.gitattributes` 文件，自动处理文件编码和换行符
+- **编辑器设置**：建议在编辑器中设置默认编码为 UTF-8，保存文件时确保使用 UTF-8 编码
+
 ### 文件夹命名规范
 - **统一使用英文命名**：所有文件夹名称必须使用英文，禁止使用中文字符，确保跨平台兼容性
 - **使用 kebab-case（小写+连字符）**：多单词使用连字符分隔，如 `data-structures`、`web-development`

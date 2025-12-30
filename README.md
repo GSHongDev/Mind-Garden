@@ -9,4 +9,6 @@
 - 调整分支结构以符合开发规范：
   - 创建 `feature/v1.0` 发布分支
   - 重命名 `dev` 分支为 `dev/init-project-ShihongGan`（符合命名规范）
+- 优化学习笔记/文档库管理流程，添加文档分类管理规范
+- 统一文件编码为 UTF-8，创建 `.gitattributes` 文件，配置 Git 编码设置
 
